@@ -7,6 +7,9 @@ file — no SQL knowledge needed to use it.
 **Note:** This currently works with **Microsoft SQL Server** only
 (connected via `pyodbc`), not MySQL.
 
+<img width="726" height="880" alt="image" src="https://github.com/user-attachments/assets/922c2bae-333b-43cc-bafe-308109625ceb" />
+
+
 ## What it does
 
 1. You type a question in plain English (e.g. *"Show all vessel
